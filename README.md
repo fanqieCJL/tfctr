@@ -63,7 +63,19 @@ lr_model = LR(**lr_params)
 lr_model.run() 
 ```
 
+This repository contains 7 .py files, they are:
+
+* config.py: the basic parameters of models.
+* DataLoader.py: the generator of dataset.
+* utils.py: some helpful tools.
+* LR.py: LR model.
+* FM.py: FM model.
+* EMLP.py: Embedding+MLP model.
+* FNN.py: FNN model.
+* PNN.py: PNN model.
+
 ## Reference
 
 [1] [Zhang W , Du T , Wang J . Deep Learning over Multi-field Categorical Data: A Case Study on User Response Prediction[J]. 2016.](https://arxiv.org/pdf/1601.02376.pdf)
+
 [2] [从FM推演各深度CTR预估模型(附代码)](https://www.jiqizhixin.com/articles/2018-07-16-17)
