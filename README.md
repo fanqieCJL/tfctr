@@ -66,5 +66,4 @@ lr_model.run()
 ## Reference
 
 [1] [Zhang W , Du T , Wang J . Deep Learning over Multi-field Categorical Data: A Case Study on User Response Prediction[J]. 2016.](https://arxiv.org/pdf/1601.02376.pdf)
-
 [2] [从FM推演各深度CTR预估模型(附代码)](https://www.jiqizhixin.com/articles/2018-07-16-17)
